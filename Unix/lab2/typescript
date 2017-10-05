@@ -1,0 +1,26 @@
+Script started on Friday 18 August 2017 02:22:26 PM IST
+]0;student@itadmin-ug1: ~/it145/Unix/lab2[01;32mstudent@itadmin-ug1[00m:[01;34m~/it145/Unix/lab2[00m$ he[K[Kecho [K[K[K[K[Kalias=[K d='echo i am an animal'
+]0;student@itadmin-ug1: ~/it145/Unix/lab2[01;32mstudent@itadmin-ug1[00m:[01;34m~/it145/Unix/lab2[00m$ d
+i am an animal
+]0;student@itadmin-ug1: ~/it145/Unix/lab2[01;32mstudent@itadmin-ug1[00m:[01;34m~/it145/Unix/lab2[00m$ scriptreplay
+scriptreplay: wrong number of arguments
+
+Usage:
+ scriptreplay [-t] timingfile [typescript] [divisor]
+
+Play back terminal typescripts, using timing information.
+
+Options:
+ -t, --timing <file>     script timing output file
+ -s, --typescript <file> script terminal session output file
+ -d, --divisor <num>     speed up or slow down execution with time divisor
+ -m, --maxdelay <num>    wait at most this many seconds between updates
+ -V, --version           output version information and exit
+ -h, --help              display this help and exit
+
+
+For more details see scriptreplay(1).
+]0;student@itadmin-ug1: ~/it145/Unix/lab2[01;32mstudent@itadmin-ug1[00m:[01;34m~/it145/Unix/lab2[00m$ exit
+exit
+
+Script done on Friday 18 August 2017 02:24:51 PM IST
